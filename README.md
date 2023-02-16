@@ -1,2 +1,2 @@
 # Python-Sharing
-My python code
+Thank you for using my python code!
